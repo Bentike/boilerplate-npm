@@ -3,6 +3,7 @@
 	"author": "Yusuf Ajadi",
 	"description": "Begining of something awesome",
 	"keywords": ["Success", "Project", "freecodecamp", "learning"],
+	"license": "BSD",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
